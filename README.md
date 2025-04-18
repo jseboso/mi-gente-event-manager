@@ -157,7 +157,7 @@ Interface
 
 ![RSVP](public/screenshots/RSVP.png)
 
-![Admin Dashboard](public/screenshots/Admin Dashboard.png)
+![Admin Dashboard](public/screenshots/adminDashboard.png)
 
 ## Installation and Setup
 
